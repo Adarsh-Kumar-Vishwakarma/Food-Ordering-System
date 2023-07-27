@@ -24,7 +24,7 @@ Enter the desired Quantity :
 3
 
 Do you wish to order anything else (Y/N) : 
-y
+Y
 ************ Welcome To J.B's Restaurant ************
 =====================================================
                   1.STARTERS           
@@ -44,14 +44,68 @@ You have Selected MainCourse
 5. Hakka Noodles       150/-
 
 Enter Your Choice :
- 1
-You have Selected  Daal Khichadi
- 
+ 4
+You have Selected Jeera Rice
+
 Enter the desiered Quantity : 
 3
 
 Do you wish to order anything else (Y/N) : 
-n
+Y
+************ Welcome To J.B's Restaurant ************
+=====================================================
+                  1.STARTERS           
+                  2.MAINCOURSE         
+                  3.DESSERTS           
+                  4.Drinks             
+=====================================================
+          What Do you Want to Order Today??
+Enter your choice :
+3
+You have Selected Desserts
+
+1. Gulab_Jamun         150/-
+2. Rasmalai            180/-
+3. Jalebi              120/-
+4. Kulfi               100/-
+5. Kheer               200/-
+
+Enter Your Choice :
+ 5
+You have Selected Kheer
+
+Enter the desiered Quantity : 
+3
+
+Do you wish to order anything else (Y/N) : 
+Y
+************ Welcome To J.B's Restaurant ************
+=====================================================
+                  1.STARTERS           
+                  2.MAINCOURSE         
+                  3.DESSERTS           
+                  4.Drinks             
+=====================================================
+          What Do you Want to Order Today??
+Enter your choice :
+4
+You have Selected Drinks
+
+1. Lassi               100/-
+2. ButterMilk          100/-
+3. Thandai             120/-
+4. Coco Cola           100/-
+5. Sprite              100/-
+
+Enter Your Choice :
+ 3
+You have Selected Thandai
+
+Enter the desiered Quantity : 
+2
+
+Do you wish to order anything else (Y/N) : 
+N
 
 ***************** Thankyou for Ordering ******************
 
@@ -60,6 +114,8 @@ Item You Ordered Today:-
      |ITEMS|          |AMOUNT|      |QUANTITY|
 
 Sev Puri                480/-           3
-Daal Khichadi           540/-           3
+Jeera Rice              570/-           3
+Kheer                   600/-           3
+Thandai                 240/-           2
 
-****************Your Total Bill is : 1020******************
+****************Your Total Bill is : 1890******************
