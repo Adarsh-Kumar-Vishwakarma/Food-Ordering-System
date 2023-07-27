@@ -1,0 +1,65 @@
+************ Welcome To J.B's Restaurant ************
+=====================================================
+                  1.STARTERS           
+                  2.MAINCOURSE         
+                  3.DESSERTS           
+                  4.Drinks             
+=====================================================
+          What Do you Want to Order Today??
+Enter your choice :
+1
+You have Selected Starters
+
+1. Dahi Papri Chaat    180/-
+2. Sev Puri            160/-
+3. Sweet Corn          150/-
+4. Khaman Dhokla       160/-
+5. Samosa Chaat        120/-
+
+Enter Your Choice :
+ 2
+You have Selected Sev Puri
+
+Enter the desired Quantity : 
+3
+
+Do you wish to order anything else (Y/N) : 
+y
+************ Welcome To J.B's Restaurant ************
+=====================================================
+                  1.STARTERS           
+                  2.MAINCOURSE         
+                  3.DESSERTS           
+                  4.Drinks             
+=====================================================
+          What Do you Want to Order Today??
+Enter your choice :
+2
+You have Selected MainCourse
+
+1. Daal Khichadi       180/-
+2. Special Pulao       200/-
+3. Steam Rice          160/-
+4. Jeera Rice          190/-
+5. Hakka Noodles       150/-
+
+Enter Your Choice :
+ 1
+You have Selected  Daal Khichadi
+ 
+Enter the desiered Quantity : 
+3
+
+Do you wish to order anything else (Y/N) : 
+n
+
+***************** Thankyou for Ordering ******************
+
+Item You Ordered Today:- 
+
+     |ITEMS|          |AMOUNT|      |QUANTITY|
+
+Sev Puri                480/-           3
+Daal Khichadi           540/-           3
+
+****************Your Total Bill is : 1020******************
